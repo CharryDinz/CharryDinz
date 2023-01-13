@@ -1,6 +1,6 @@
 ### Hi, there👋
 
-![Welcome to my GitHub Profile](https://github.com/CharryDinz/CharryDinz/blob/main/Welcome%20Banner.gif)
+![Welcome to my GitHub Profile](https://github.com/CharryDinz/CharryDinz/blob/main/Welcome.gif)
 
 I'm Charry, from Philippines. I worked as a Virtual Assistant for the last 2 years.👩‍💻 Honestly, I've only had a basic education. I graduated a Associate in Computer Technology. But believe there is a lot to learn more. I am always open to a new ideas and opportunities.
 
