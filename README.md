@@ -2,7 +2,7 @@
 
 ![Welcome to my GitHub Profile](https://github.com/CharryDinz/CharryDinz/blob/My-Files/Sample_3.gif)
 
-I'm Charry, from Philippines. I worked as a Virtual Assistant for the last 2 years.👩‍💻 Honestly, I've only had a basic education. I graduated a Associate in Computer Technology. But believe there is a lot to learn more. I am always open to a new ideas and opportunities.
+I'm Charry, from Philippines. I worked as a Virtual Assistant for the last 2 years now. Honestly,I've only had a basic education. I graduated as an Associate in Computer Technology. But believe there is a lot to learn more. I am always open to a new ideas and opportunities.
 
 - 👩‍💻I do freelance job in [Fiverr](https://www.fiverr.com/users/charrydinz) and you can find some of my basic skills in there🙂
 - 🌱I'm currently learning in Github, VS Code and many more.
