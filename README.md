@@ -2,15 +2,30 @@
 
 ![Welcome to my GitHub Profile](https://github.com/CharryDinz/CharryDinz/blob/main/Welcome.gif)
 
-My name is Charry, and I am from the Philippines. I have been working as a virtual assistant for the last 2 years. Honestly, I only have a basic education, as I graduated with an associate degree in computer technology. But, I believe there is a lot more for me to learn. I am always open to new ideas and opportunities.
+My name is Charry Dinoy,from the Philippines and I have been working as a virtual assistant for the last 2 years. I only have a basic education, graduating with an associate degree in computer technology, I am always eager to learn and explore new opportunities. I am open to new ideas and am excited to continue expanding my knowledge and skills.
 
+- 🌱I'm currently learning everything.😬
 - 👩‍💻I do freelance job on [Fiverr](https://www.fiverr.com/users/charrydinz) where you can find some of my basic skills.
-- 🌱I'm currently learning in Github, VS Code and more.
 - ✍️In my free time, I enjoy hiking, doing fitness activities, and singing.
+- 🙂Lastly, the fun facts about me: I am a shy person, but once I get comfortable with you, I can turn into a clown and do silly things.😅
 
-### Just feel free to check out my social media accounts if you would like to know more about me.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CharryDinz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/charry-lou-dinoy-2790091b2//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/charry.diNz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/charrydinz//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.reddit.com%2Fu%2Ffilipinagirlproud%3Futm_medium%3Dandroid_app%26utm_source%3Dshare&h=AT3WMa7qh5wWwUWrQx9eavwgSJtBbkgWdONT9zEFNOtZu0xySIk6g0Xc2sWcLVs8WRYwl69nccOCzhYJ0H2ZVjurrXZni4vA6ndcZ-vTTiEzP0EYiOR8g5RMCgt7TpPoxN5w8A)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/NNezbU92)  
+<h3 align="left">Let's be friends:</h3>
+<p align="left">
+<a href="https://twitter.com/chacha39730653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chacha39730653" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/charry-lou-dinoy-2790091b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/charry-lou-dinoy-2790091b2/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/charry.dinz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/charry.dinz/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/charrydinz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/charrydinz/" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/NNezbU92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/NNezbU92" height="30" width="40" /></a>
+</p>
+
+
+<h3 align="left">Tools and Software:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/canva-3823975-3175197.png" alt="canva" width="40" height="40"/> </a> <a href="https://www.photopea.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Photopea_logo.svg/1200px-Photopea_logo.svg.png" alt="invision" width="40" height="40"/> </a> <a href="https://www.trello.com/en" target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/trello-logo-11609379884pqzesvzckp.png" alt="trello" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/> </a> </p>
 
 ### Here's my latest Github Streak Stats:
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=CharryDinz)  
+
+
+#  Thank you for visiting my Github profile! #
+
