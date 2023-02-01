@@ -15,9 +15,10 @@ My name is Charry Dinoy,from the Philippines and I have been working as a virtua
 <a href="https://twitter.com/chacha39730653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chacha39730653" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/charry-lou-dinoy-2790091b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/charry-lou-dinoy-2790091b2/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/charry.dinz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/charry.dinz/" height="30" width="40" /></a>
+<a href="https://www.pinterest.ph/charrydinzs/" target="blank"><img align="center" src="https://3.bp.blogspot.com/-es4Dqs8opYw/XFonxEkGB0I/AAAAAAAAHzo/fSkkWZXMW_sMUY0BDK-N5d1YVzHZY0X-ACK4BGAYYCw/s1600/Pinterest.png" alt="https://www.pinterest.ph/charrydinzs/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/charrydinz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/charrydinz/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/NNezbU92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/NNezbU92" height="30" width="40" /></a>
-</p>
+</p> 
 
 
 <h3 align="left">Tools and Software:</h3>
@@ -26,6 +27,4 @@ My name is Charry Dinoy,from the Philippines and I have been working as a virtua
 ### Here's my latest Github Streak Stats:
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=CharryDinz)  
 
-
-#  Thank you for visiting my Github profile! #
 
