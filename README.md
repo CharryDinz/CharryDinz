@@ -5,7 +5,7 @@
 My name is Charry Dinoy,from the Philippines and I have been working as a virtual assistant for the last 2 years. I only have a basic education, graduating with an associate degree in computer technology, I am always eager to learn and explore new opportunities. I am open to new ideas and am excited to continue expanding my knowledge and skills.
 
 - 🌱I'm currently learning everything.😬
-- 👩‍💻I do freelance job on [Fiverr](https://www.fiverr.com/users/charrydinz) where you can find some of my basic skills.
+- 👩‍💻I do freelance job on **Fiverr** where you can find some of my basic skills.
 - ✍️In my free time, I enjoy hiking, doing fitness activities, and singing.
 - 🙂Lastly, the fun facts about me: I am a shy person, but once I get comfortable with you, I can turn into a clown and do silly things.
 
